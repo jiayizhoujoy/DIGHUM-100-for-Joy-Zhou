@@ -4,5 +4,3 @@ The project contained in this repository investigates the influence of Covid-19 
 The dataset used in this project is selected from Kaggle, and its link is https://www.kaggle.com/vineethakkinapalli/impact-of-covid19-on-employment-ilostat. 
 
 This repository now contains all the notebooks, dataset, and storyboards for the described project. 
-
-Question: I was wondering how detailed should this README be since it is almost the same with our storyboards? 
