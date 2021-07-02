@@ -4,4 +4,6 @@ The project contained in this repository investigates the influence of Covid-19 
 The dataset used in this project is selected from Kaggle, and its link is https://www.kaggle.com/vineethakkinapalli/impact-of-covid19-on-employment-ilostat. 
 
 This repository now contains all the notebooks, dataset, and storyboards for the described project. 
+
+Learn more about this project: 
 [Jiayi Zhou Poster for DIGHUM100.pdf](https://github.com/jiayizhoujoy/DIGHUM-100-for-Joy-Zhou/blob/main/Jiayi%20Zhou%20Poster%20for%20DIGHUM100.pdf)
